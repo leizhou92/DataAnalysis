@@ -1,8 +1,5 @@
 In this project using data of customers from a retailer, I've segmented customers in 5 categories using K-Means Clustering.
 
-I analysed the optimal number of clusters using Silhouette Analysis and Sum of Squared Errors (Elbow) and then visualized the 
-clustered data using PCA (2D decomposition).
-
 Further as a datascientist I shouldn't just cluster the customers. Thus, I analysed each cluster of customers and came up with 
 some insights which can be used as marketing startegies. These insights can be further developed by the business asociates of 
 the company.
@@ -35,8 +32,6 @@ Devised Strategies:
 
 5) Strategy for group 5: They have high income and high spending scores. These are our consistent customers and to keep them consistent we need to make them believe that we care for them, by giving loyalty points, 24x7 customer service, free return policies, b'day gifts etc.
 ------------------------------------------------------------------------------------------------------------------
-
-Code in https://github.com/karanm14/data_analysis/blob/master/customer_segmentation/Customer_Segmentation.ipynb 
 
 ------------------------------------------------------------------------------------------------------------------
 Dataset Description: Mall_Customers.csv
